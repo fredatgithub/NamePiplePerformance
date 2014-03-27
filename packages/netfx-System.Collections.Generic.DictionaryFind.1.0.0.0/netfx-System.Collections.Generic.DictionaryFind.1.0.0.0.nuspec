@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>netfx-System.Collections.Generic.DictionaryFind</id>
+    <version>1.0.0.0</version>
+    <title>NETFx IDictionary&lt;TKey, TValue&gt;.Find Extension Method</title>
+    <authors>Daniel Cazzulino,  kzu,  Clarius</authors>
+    <owners>Daniel Cazzulino,  kzu,  Clarius</owners>
+    <licenseUrl>http://netfx.codeplex.com/license</licenseUrl>
+    <projectUrl>http://netfx.codeplex.com/</projectUrl>
+    <iconUrl>http://download.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=netfx&amp;DownloadId=199201</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Finds a value by key in the dictionary, or returns the default value for TValue. Just like Linq FirstOrDefault().</description>
+    <summary>Finds a value by key in the dictionary, or returns the default value for TValue. Just like Linq FirstOrDefault().</summary>
+    <tags>netfx dictionary find</tags>
+    <references />
+  </metadata>
+</package>

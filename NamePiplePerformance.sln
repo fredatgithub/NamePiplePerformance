@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeServer", "NamedPipeServer\NamedPipeServer.csproj", "{DC132014-9EC5-4BD6-9708-AC0FDAB4AB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeClient", "NamedPipeClient\NamedPipeClient.csproj", "{54F5AFE1-8945-4C07-9BF1-D6EF2C0F815A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC132014-9EC5-4BD6-9708-AC0FDAB4AB30}.Debug|x86.ActiveCfg = Debug|x86
+		{DC132014-9EC5-4BD6-9708-AC0FDAB4AB30}.Debug|x86.Build.0 = Debug|x86
+		{DC132014-9EC5-4BD6-9708-AC0FDAB4AB30}.Release|x86.ActiveCfg = Release|x86
+		{DC132014-9EC5-4BD6-9708-AC0FDAB4AB30}.Release|x86.Build.0 = Release|x86
+		{54F5AFE1-8945-4C07-9BF1-D6EF2C0F815A}.Debug|x86.ActiveCfg = Debug|x86
+		{54F5AFE1-8945-4C07-9BF1-D6EF2C0F815A}.Debug|x86.Build.0 = Debug|x86
+		{54F5AFE1-8945-4C07-9BF1-D6EF2C0F815A}.Release|x86.ActiveCfg = Release|x86
+		{54F5AFE1-8945-4C07-9BF1-D6EF2C0F815A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
